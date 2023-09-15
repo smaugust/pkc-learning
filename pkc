@@ -1,0 +1,6 @@
+echo
+echo "hello world, this is a test of Linux executable code"
+echo
+read -p "What is your answer? "
+echo "The answer was [$REPLY]"
+echo

@@ -9,7 +9,8 @@ to be secure!  It's just a way to illustrate encryption and decryption quickly a
 
 CONTENTS
 ========
-pkc ... An executable, menu-driven, Linux-based shell script
-README.md ... This file
+(1) pkc ... An executable, menu-driven, Linux-based shell script
+
+(2) README.md ... This file
 
 
